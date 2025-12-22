@@ -9,6 +9,6 @@ dependencies:
 
 settings:
   android:
-    namespace: "com.jetbrains.sample.app"
+    namespace: "com.gowork.a_watermark_camera"
   compose: enabled
   junit: junit-4
